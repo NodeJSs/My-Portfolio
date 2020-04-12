@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Portfolio Story`,
-    description: `A starter template for Gatsby for designers and developers to tell stories about their work. Inspired by @Edmund1645`,
+    title: `Faruq's portfolio`,
+    description: `Yusuff Faruq's portfolio site`,
     author: `Yusuff Faruq`,
   },
   plugins: [
