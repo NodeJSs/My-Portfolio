@@ -35,10 +35,10 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Portfolio Story`,
-        short_name: `Gatsby Portfolio Story`,
+        name: `Faruq's Portfolio`,
+        short_name: `Faruq's Portfolio`,
         start_url: `/`,
-        background_color: `#663399`,
+        background_color: `#1d2229`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
