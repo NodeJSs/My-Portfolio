@@ -15,6 +15,7 @@ description: This is my technical blog
 KatanaBlog is my personal blog where I put all my technical writing content. This site was built from scratch with Gatsby, Emotion and Theme UI.
 
 Features include: 
+
 1. Light mode and dark mode
 2. Tag support
 3. Image optimisation with Sharp
@@ -23,5 +24,4 @@ Features include:
 6. Netlify CMS for generating new blog posts in form of markdown
 
 ![an image](./katana-main.JPG)
-## This is a heading
 
