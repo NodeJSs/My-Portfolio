@@ -12,7 +12,7 @@ description: This is a Gatsby theme I built for building portfolio sites.
 
 
 ## What is Gatsby-portfolio-story
-Gatsby-portfolio-story is a Gatsby starter for building portfolio sites. Its features include:
+[Gatsby-portfolio-story](https://www.gatsbyjs.org/packages/gatsby-portfolio-story/) is a Gatsby starter for building portfolio sites. Its features include:
 
 1. Tag support
 2. Component styling with emotion
