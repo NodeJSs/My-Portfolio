@@ -21,7 +21,7 @@ const StyledFooter = styled("footer")`
 const Footer = () => {
     return (
         <StyledFooter>
-            <p style = {{margin: "0.7rem",}}>Built with 🍻 by <a href = "https://thekatana.tech">Yusuff Faruq</a></p>
+            <p style = {{margin: "0.7rem",}}>Built with 🍻 by <a href = "https://github.com/NodeJSs">Yusuff Faruq</a></p>
         </StyledFooter>
     );
 }

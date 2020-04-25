@@ -65,6 +65,7 @@ const Grid = styled("div")`
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-row-gap: 0.5rem;
+    margin-bottom: 2rem;
 `;
 
 export const query = graphql`
@@ -112,9 +113,6 @@ const Page = ({ data: { mdx: page } }) => {
                         <a href = {`https://${page.frontmatter.link}`}>{page.frontmatter.link}</a>
 
                     </Grid>
-            
-
-
                 </aside>
                 <div>
                     <MDXRenderer>

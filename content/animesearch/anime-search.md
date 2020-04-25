@@ -10,7 +10,7 @@ cover_image: "anime-search-preview.JPG"
 description: An website where you can search and gain information on almost any anime
 ---
 
-# Stack and Technologies
+## Stack and Technologies
 
 This website was built using React and styled-components.
 Routing was accomplished using Reach Router
